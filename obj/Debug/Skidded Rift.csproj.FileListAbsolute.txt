@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Skidded Rift\obj\Debug\Skidded Rift.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Skidded Rift\obj\Debug\Skidded_Rift.Form1.resources
+C:\Users\User\source\repos\Skidded Rift\obj\Debug\Skidded_Rift.Properties.Resources.resources
+C:\Users\User\source\repos\Skidded Rift\obj\Debug\Skidded Rift.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Skidded Rift\obj\Debug\Skidded Rift.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Skidded Rift\bin\Debug\Skidded Rift.exe.config
+C:\Users\User\source\repos\Skidded Rift\bin\Debug\Skidded Rift.exe
+C:\Users\User\source\repos\Skidded Rift\bin\Debug\Skidded Rift.pdb
+C:\Users\User\source\repos\Skidded Rift\obj\Debug\Skidded Rift.exe
+C:\Users\User\source\repos\Skidded Rift\obj\Debug\Skidded Rift.pdb
